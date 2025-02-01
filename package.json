@@ -10,7 +10,7 @@
   },
   "main": "index.js",
   "devDependencies": {
-    "markdownlint": "^0.37.3",
+    "markdownlint": "^0.37.4",
     "markdownlint-cli": "^0.43.0",
     "prettier": "^3.4.2"
   },
