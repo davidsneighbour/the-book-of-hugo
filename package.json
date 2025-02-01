@@ -15,6 +15,6 @@
     "prettier": "^3.4.2"
   },
   "dependencies": {
-    "@davidsneighbour/markdownlint-config": "^2024.4.12"
+    "@davidsneighbour/markdownlint-config": "^2025.0.1"
   }
 }
